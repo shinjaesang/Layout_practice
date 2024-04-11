@@ -3,4 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="lime">#CDDC39</color>
+    <color name="pink">#EC7DA2</color>
+    <color name="lightblue">#00BCD4</color>
+    <color name="lightyellow">#FFF59F</color>
 </resources>
